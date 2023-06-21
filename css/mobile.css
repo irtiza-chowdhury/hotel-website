@@ -18,11 +18,15 @@
   height: 100%;
 }
 
-#showCase .showcase-content{
+#showCase .showcase-content {
   padding: 70px 0 30px;
 }
 
 /* home-info */
+#home-Info {
+  height: max-content;
+}
+
 #home-Info .info-img {
   display: none;
 }
@@ -45,21 +49,15 @@
   width: 100%;
 }
 
-.l-heading{
+.l-heading {
   text-align: center;
-  line-height: 1.2;
 }
 
-#about-info .info-right{
+#about-info .info-right {
   margin-top: 30px;
 }
 
-/* Testimonials */
-#testimonials {
-  height: 100%;
-}
-
 /* contact */
-#contact-info .box{
+#contact-info .box {
   border-bottom: #444 dotted 1px;
 }
