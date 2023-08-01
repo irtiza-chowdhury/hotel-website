@@ -24,7 +24,7 @@ h3 {
 }
 
 p {
-  padding: 10px 0;
+  margin: 10px 0;
 }
 
 /* utiliti classes */
@@ -185,7 +185,7 @@ p {
 /* features serction */
 .box {
   float: left;
-  width: 33.33%;
+  width: 33.3%;
   padding: 50px;
   text-align: center;
 }
